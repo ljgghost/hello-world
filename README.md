@@ -24,3 +24,14 @@ Hi, I'm Mona. You might recognize me as GitHub's mascot.
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+Here is a simple flow chart:
+
+<!--  创建 Mermaid 关系图 -->
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
